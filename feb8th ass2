@@ -1,0 +1,3 @@
+kilo_meters = int(input("Enter the kilometers:-"))
+centimeters = kilo_meters*100000
+print("centemeters:-",centimeters)
